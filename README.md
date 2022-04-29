@@ -13,7 +13,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Mohammad1745&show_icons=true&locale=en&theme=react" ></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Mohammad1745&show_icons=true&locale=en&theme=vue-dark" ></a>
 </p>
 
 <p align='center'>
@@ -50,4 +50,4 @@
 </details>
 <br />
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad1745&show_icons=true&locale=en&theme=react" alt="mohammad" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad1745&show_icons=true&locale=en&theme=calm" alt="mohammad" /></p>
